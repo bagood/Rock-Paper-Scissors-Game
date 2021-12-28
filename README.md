@@ -1,2 +1,1 @@
-# Rock-Paper-Scissors
-# Guess-The-Number
+# A program that lets you play rock-paper-scissors with a computer
