@@ -1,1 +1,1 @@
-# A program that lets you play rock-paper-scissors with a computer
+A program that lets you play rock-paper-scissors with a computer
